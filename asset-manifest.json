@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.js": "/yandex-test/static/js/main.1525d5db.js",
+    "main.js": "/yandex-test/static/js/main.85f4197c.js",
+    "static/media/selfiAvatar.jpg": "/yandex-test/static/media/selfiAvatar.58fe8ebf85c66f6fc739.jpg",
+    "static/media/scoolAvatar.jpeg": "/yandex-test/static/media/scoolAvatar.1e475dd2ef23785fb6aa.jpeg",
     "index.html": "/yandex-test/index.html",
-    "main.1525d5db.js.map": "/yandex-test/static/js/main.1525d5db.js.map"
+    "main.85f4197c.js.map": "/yandex-test/static/js/main.85f4197c.js.map"
   },
   "entrypoints": [
-    "static/js/main.1525d5db.js"
+    "static/js/main.85f4197c.js"
   ]
 }
